@@ -1,6 +1,6 @@
 # Portal de Notícias
 
-- Projeto de Formação Rocketseat
+- **Projeto de Formação Rocketseat**
 
 Este projeto consiste no desenvolvimento da homepage de um Portal de Notícias sobre tecnologia para visualização em desktops. O projeto integra a trilha da formação Full-Stack da Rocketseat.
 
