@@ -1,4 +1,4 @@
-# Portal de Notícias
+# Portal de Notícias: Tech News
 
 - **Projeto de Formação Rocketseat**
 
