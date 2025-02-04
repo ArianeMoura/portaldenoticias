@@ -1,4 +1,4 @@
-# Portal de Notícias de Tecnologia - Tech News 📰
+# Portal de Notícias - Tech News 📰
 Este repositório contém o desenvolvimento da **homepage do Tech News**, um portal de notícias sobre tecnologia projetado para visualização em desktops.
 
 O projeto foi desenvolvido como parte da trilha de **formação Full-Stack da Rocketseat**, com foco em habilidades essenciais de **HTML**, **CSS** e **Design Responsivo**.
