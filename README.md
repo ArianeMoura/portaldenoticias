@@ -54,6 +54,6 @@ Design moderno e alinhado ao mercado tech ✔️
 <br>
 
 ### 🔗 Acesse o Projeto
-Click <a href="https://arianemoura.github.io/projeto-travelgram/">here</a> to access the website.
+Click <a href="https://arianemoura.github.io/portaldenoticias/">here</a> to access the website.
 
 
