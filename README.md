@@ -15,17 +15,17 @@ Este repositório contém o desenvolvimento da **homepage do Tech News**, um por
 O **Tech News** busca oferecer uma interface moderna e dinâmica para leitura de notícias tecnológicas, com seções organizadas e layout responsivo. O portal apresenta destaques de tópicos como **Inteligência Artificial**, **Blockchain**, **Hologramas**, **Internet**, **Realidade Virtual e Aumentada**, proporcionando ao usuário uma experiência fluida e visualmente agradável.
 
 🛠️ **Tecnologias Utilizadas**
-- **HTML5:** Estrutura semântica do projeto
-- **CSS3 (Grid Layout):** Estilização e organização de layout com grid
-- **Variáveis CSS:** Simplificação e padronização do código
-- **Google Fonts:** Tipografia moderna com fontes externas
-- **Organização de Assets:** Nomeação e estruturação de arquivos (imagens e ícones)
+- **HTML5:** Estrutura semântica do projeto.
+- **CSS3 (Grid Layout):** Estilização e organização de layout com grid.
+- **Variáveis CSS:** Simplificação e padronização do código.
+- **Google Fonts:** Tipografia moderna com fontes externas.
+- **Organização de Assets:** Nomeação e estruturação de arquivos (imagens e ícones).
 
 📚 **Conceitos Abordados**
-- **Grid Layout:** Estrutura eficiente de layouts para portais complexos
-- **Style Guide:** Padronização de cores e tipografia com base em protótipo no Figma
-- **Tipografia:** Definição de fontes, tamanhos e estilos para uma leitura agradável
-- **Exportação de Assets:** Organização e otimização de imagens e ícones
+- **Grid Layout:** Estrutura eficiente de layouts para portais complexos.
+- **Style Guide:** Padronização de cores e tipografia com base em protótipo no Figma.
+- **Tipografia:** Definição de fontes, tamanhos e estilos para uma leitura agradável.
+- **Exportação de Assets:** Organização e otimização de imagens e ícones.
 
 🎯 **Funcionalidades**
 - Destaque de notícias tecnológicas por categoria ✔️
